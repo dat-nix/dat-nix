@@ -5,7 +5,7 @@
 
 ## About Me
 
-* I'm a CS student from Vietnam.
+* I'm a IT student from Vietnam.
 * Currently strengthening fundamentals in:
 
   * Linux environment
