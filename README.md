@@ -1,29 +1,115 @@
 <h1 align="center">Hi 👋, I'm Dat</h1>
-<h3 align="center">A passionate programmer from Vietnam</h3>
+<h3 align="center">I build systems. Then I try to break them (ethically).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dat-nix&label=Profile%20views&color=0e75b6&style=flat" alt="dat-nix" /> </p>
-
-- 🔭 I’m currently working on [Neo weather app](https://github.com/rmit-nct/neo-what-weather)
-
-- 🌱 I’m currently learning **React, TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/dat-nix](https://github.com/dat-nix)
-
-- 💬 Ask me about **Linux, General web development**
-
-- 📫 How to reach me **dtpm4269@gmail.com**
-
-- ⚡ Fun fact **Monkey :DD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <em>Linux-first • Security-driven • Curious about how things actually work under the hood</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dat-nix&show_icons=true&locale=en&layout=compact" alt="dat-nix" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dat-nix&" alt="dat-nix" /></p>
+* 🎓 I'm a university student from Vietnam exploring the path from **developer → security engineer**
+* 🐧 Daily driving Linux and terminal-based workflows (Neovim, CLI tooling, minimal UI)
+* 🔍 Currently diving deep into **web security, system internals, and vulnerability research**
+* 🛠 I build applications to understand architecture — then analyze them to understand attack surfaces
+* 🎯 Long-term goal: become highly skilled in **offensive security & bug bounty research**
 
+I believe:
+
+> You don't really understand a system until you try to break it.
+
+---
+
+## 🚧 Current Focus
+
+* 🔭 Working on: **Neo league**
+  → Building full-stack features while studying how real-world apps can fail.
+
+* 🌱 Learning (seriously, not just skimming):
+
+  * React + TypeScript (to understand modern frontend attack surface)
+  * Backend fundamentals & API design
+  * Linux internals & networking
+  * Web exploitation methodology (PortSwigger-style learning)
+  * Reading codebases to understand real implementations
+
+---
+
+## ⚙️ Technical Environment
+
+**Operating System**
+
+* Linux (daily driver)
+
+**Editor**
+
+* Neovim (LazyVim-based setup tuned for speed & keyboard-centric workflow)
+
+**Languages I Use**
+
+* C (for low-level understanding)
+* JavaScript / TypeScript
+* HTML / CSS
+* Java (academic + code reading)
+
+**Tools I Work With**
+
+* Git
+* Docker
+* Node.js
+* Bash / Shell scripting
+
+---
+
+## 🔬 What I'm Practicing Now
+
+Instead of chasing certificates, I'm focused on:
+
+* Reading real code, not tutorials
+* Understanding root causes of vulnerabilities
+* Reproducing bugs in controlled environments
+* Writing clean but minimal implementations
+* Building intuition about:
+
+  * Trust boundaries
+  * Input validation failures
+  * State handling
+  * Misconfigurations
+  * Logic bugs
+
+---
+
+## 📂 Projects
+
+You can explore everything here:
+
+👉 https://github.com/dat-nix
+
+Most projects are learning-driven and evolve as I deepen understanding.
+
+---
+
+## 📫 Contact
+
+* Email: **[dtpm4269@gmail.com](mailto:dtpm4269@gmail.com)**
+
+I'm always open to discussions about:
+
+* Linux workflows
+* Web architecture
+* Security learning paths
+* Building a strong technical foundation
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy staring at terminal screens long enough until bugs reveal themselves.
+
+---
+
+<p align="center">
+  <em>Still learning. Still breaking things. Still rebuilding them better.</em>
+</p>
 
