@@ -1,115 +1,92 @@
 <h1 align="center">Hi 👋, I'm Dat</h1>
-<h3 align="center">I build systems. Then I try to break them (ethically).</h3>
-
-<p align="center">
-  <em>Linux-first • Security-driven • Curious about how things actually work under the hood</em>
-</p>
+<h3 align="center">Computer Science Student | Focused on Systems, Web, and Security</h3>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-* 🎓 I'm a university student from Vietnam exploring the path from **developer → security engineer**
-* 🐧 Daily driving Linux and terminal-based workflows (Neovim, CLI tooling, minimal UI)
-* 🔍 Currently diving deep into **web security, system internals, and vulnerability research**
-* 🛠 I build applications to understand architecture — then analyze them to understand attack surfaces
-* 🎯 Long-term goal: become highly skilled in **offensive security & bug bounty research**
+* I'm a CS student from Vietnam.
+* Currently strengthening fundamentals in:
 
-I believe:
-
-> You don't really understand a system until you try to break it.
-
----
-
-## 🚧 Current Focus
-
-* 🔭 Working on: **Neo league**
-  → Building full-stack features while studying how real-world apps can fail.
-
-* 🌱 Learning (seriously, not just skimming):
-
-  * React + TypeScript (to understand modern frontend attack surface)
-  * Backend fundamentals & API design
-  * Linux internals & networking
-  * Web exploitation methodology (PortSwigger-style learning)
-  * Reading codebases to understand real implementations
+  * Linux environment
+  * Web application architecture
+  * Low-level programming (C)
+  * How vulnerabilities actually happen in real systems
+* Goal: build a solid technical base before moving deeper into offensive security and bug bounty work.
 
 ---
 
-## ⚙️ Technical Environment
+## Current Work
 
-**Operating System**
+* Working on: **Neo League **
 
-* Linux (daily driver)
+  * Implementing features
+  * Reading the codebase carefully
+  * Understanding data flow, state handling, and real-world structure
 
-**Editor**
+---
 
-* Neovim (LazyVim-based setup tuned for speed & keyboard-centric workflow)
+## What I'm Learning Right Now
 
-**Languages I Use**
+* React + TypeScript (to understand modern frontend behavior)
+* Backend basics and API design
+* Linux internals, networking, CLI workflow
+* Debugging and reading unfamiliar code
+* Root-cause analysis instead of surface-level fixes
 
-* C (for low-level understanding)
+---
+
+## Daily Environment
+
+* OS: Linux
+* Editor: Neovim (LazyVim setup)
+* Workflow: terminal-first, keyboard-driven
+
+---
+
+## Languages
+
+* C
 * JavaScript / TypeScript
 * HTML / CSS
-* Java (academic + code reading)
+* Java
 
-**Tools I Work With**
+---
+
+## Tools
 
 * Git
 * Docker
 * Node.js
-* Bash / Shell scripting
+* Bash / Shell
 
 ---
 
-## 🔬 What I'm Practicing Now
+## Learning Approach
 
-Instead of chasing certificates, I'm focused on:
-
-* Reading real code, not tutorials
-* Understanding root causes of vulnerabilities
-* Reproducing bugs in controlled environments
-* Writing clean but minimal implementations
-* Building intuition about:
-
-  * Trust boundaries
-  * Input validation failures
-  * State handling
-  * Misconfigurations
-  * Logic bugs
+* Read documentation, not summaries.
+* Reproduce issues locally.
+* Trace behavior through code instead of guessing.
+* Focus on understanding systems before trying to exploit them.
 
 ---
 
-## 📂 Projects
+## Projects
 
-You can explore everything here:
-
+All work is here:
 👉 https://github.com/dat-nix
 
-Most projects are learning-driven and evolve as I deepen understanding.
+Most repositories are practice-oriented and evolve over time.
 
 ---
 
-## 📫 Contact
+## Contact
 
-* Email: **[dtpm4269@gmail.com](mailto:dtpm4269@gmail.com)**
-
-I'm always open to discussions about:
-
-* Linux workflows
-* Web architecture
-* Security learning paths
-* Building a strong technical foundation
-
----
-
-## ⚡ Fun Fact
-
-I enjoy staring at terminal screens long enough until bugs reveal themselves.
+Email: **[dtpm4269@gmail.com](mailto:dtpm4269@gmail.com)**
 
 ---
 
 <p align="center">
-  <em>Still learning. Still breaking things. Still rebuilding them better.</em>
+  Still learning. Building fundamentals first.
 </p>
 
