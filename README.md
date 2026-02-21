@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dat</h1>
-<h3 align="center">Computer Science Student | Focused on Systems, Web, and Security</h3>
+<h3 align="center">IT Student | Focused on Systems, Web, and Security</h3>
 
 ---
 
