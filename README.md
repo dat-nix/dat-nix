@@ -31,9 +31,11 @@ working through the codebase to understand structure, data flow, and system beha
 ## projects
 - **ctf writeups (2026)**  
   solutions, failures, and notes from challenges across web, pwn, misc  
+  → https://github.com/dat-nix/writeup-ctf-2026  
 
 - **landing page**  
-  frontend project for Kendo club Tournament 2025 exploring layout, structure, and ui behavior  
+  frontend project exploring layout, structure, and ui behavior  
+  → https://github.com/dat-nix/Landing-page  
 
 ---
 
@@ -50,5 +52,5 @@ linux • neovim • git • docker
 ---
 
 <p align="center">
-github.com/dat-nix
+  github.com/dat-nix • dtpm4269@gmail.com
 </p>
