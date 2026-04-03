@@ -1,48 +1,54 @@
-<h1 align="center">Dat</h1>
-<h3 align="center">Systems • Web • Security</h3>
+<h1 align="center">dat</h1>
+
+<p align="center">
+systems / web / security
+</p>
 
 ---
 
-## About
-IT student from Vietnam.  
-Focused on understanding how systems actually work — not just using them.
+## about
+i'm an IT student from vietnam.  
+focused on ctf and web pentesting, interested in how real systems break in practice.  
 
 ---
 
-## Focus
-- Linux & internals  
-- Web architecture  
-- Low-level (C)  
-- Vulnerabilities in real systems  
+## current focus
+- c programming (memory, low-level behavior)  
+- web pentesting (labs, real-world patterns)  
+- pwnable basics  
+- exploring unfamiliar codebases  
+
+future: reverse engineering  
 
 ---
 
-## Work
-**Neo League**  
-Reading code. Tracing data. Understanding behavior.
+## work
+**neo league**  
+working through the codebase to understand structure, data flow, and system behavior  
 
 ---
 
-## Stack
-C • JavaScript/TypeScript • Java  
-Linux • Neovim • Git • Docker • Bash  
+## projects
+- **ctf writeups (2026)**  
+  solutions, failures, and notes from challenges across web, pwn, misc  
+
+- **landing page**  
+  frontend project for Kendo club Tournament 2025 exploring layout, structure, and ui behavior  
 
 ---
 
-## Mindset
-- Read code > tutorials  
-- Trace > guess  
-- Root cause > quick fix  
-- Understand > exploit  
+## experience
+ctf player  
+hands-on with challenges and practical scenarios  
 
 ---
 
-## Links
-github.com/dat-nix  
-dtpm4269@gmail.com  
+## stack
+c • javascript/typescript • java  
+linux • neovim • git • docker  
 
 ---
 
 <p align="center">
-  Build first. Break later.
+github.com/dat-nix
 </p>
